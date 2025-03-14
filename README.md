@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# 💫 Salve Guys! Sou o David, mais conhecido como Murred. Sou Software Enginner e Pentester nas horas vagas!
+# 💫 Salve Guys! Sou o David, mais conhecido como Murred. Sou Software Engineer e Pentester nas horas vagas!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murred) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_murred) 
