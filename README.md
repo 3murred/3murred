@@ -179,7 +179,7 @@ My main language is **Python**, but I believe the right tool depends on the prob
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/3mured/3murred/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/3murred/3murred/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />
 <br>
         
 ```text
