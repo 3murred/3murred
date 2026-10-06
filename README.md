@@ -219,17 +219,7 @@ My main language is **Python**, but I believe the right tool depends on the prob
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                         M U R R E D                          │
-│                                                              │
-│              BUILD  •  BREAK  •  LEARN  •  SECURE            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://raw.githubusercontent.com/mured/mured/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/3mured/3murred/output/github-contribution-grid-snake.svg" width="100%" />
 
 <br>
 
