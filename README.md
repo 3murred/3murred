@@ -202,27 +202,9 @@ My main language is **Python**, but I believe the right tool depends on the prob
 ---
 
 <div align="center">
-
-### `// GITHUB ACTIVITY`
-
-<img src="https://github-readme-stats.vercel.app/api?username=murred&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=ffffff&ring_color=ff0000" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murred&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff" height="170"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=murred&theme=dark&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/3mured/3murred/output/github-contribution-grid-snake.svg" width="100%" />
-
 <br>
-
+        
 ```text
 [ CONNECTION TERMINATED ]
 [ TRACE CLEANED ]
