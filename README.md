@@ -27,7 +27,7 @@
 <br>
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_murred)
-[![GitHub](https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murred)
+[![LinkedIn](https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://linkedin.com/in/murred/)
 
 </div>
 
