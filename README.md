@@ -9,19 +9,6 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝
 ```
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   [ SYSTEM ]      ONLINE                                     │
-│   [ ID ]          MURRED                                     │
-│   [ STATUS ]      BUILDING SECURE SYSTEMS                    │
-│   [ ACCESS ]      GRANTED                                    │
-│                                                              │
-│   cybersecurity // cloud // software engineering // ai       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=BUILDING+SECURE+SYSTEMS;BREAKING+SYSTEMS+TO+UNDERSTAND+THEM;CYBERSECURITY+%7C+CLOUD+%7C+SOFTWARE+%7C+AI;THINK.+BUILD.+BREAK.+SECURE." alt="Typing SVG" />
 
 <br>
@@ -74,23 +61,13 @@ I build, break, automate and study systems across **Cybersecurity, Software Engi
 
 My main language is **Python**, but I believe the right tool depends on the problem — from Bash and PowerShell to Java, C/C++, JavaScript and whatever else gets the job done.
 
-```text
-        ┌─────────────────────────────────────────────┐
-        │                                             │
-        │   LEARN        →        BUILD               │
-        │      ↑                    ↓                 │
-        │      └────── BREAK ← SECURE                │
-        │                                             │
-        └─────────────────────────────────────────────┘
-```
-
 ---
 
 <div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                      DIGITAL TOOLBOX                         ║
+║                            STACKS                            ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
