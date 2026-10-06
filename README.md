@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="banner_github.png" alt="MURRED // SYSTEM ONLINE" width="100%" />
-
-<br>
-
 ```text
 ███╗   ███╗██╗   ██╗██████╗ ██████╗ ███████╗██████╗
 ████╗ ████║██║   ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
