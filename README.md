@@ -52,13 +52,13 @@ $ ./mission.sh
 [+] automate everything
 [+] build secure software
 [+] learn something every day
+
+$ cat /etc/about_me
+
+i am **david**, better known as **murred**
+i build, break, automate and study systems across **cybersecurity, software engineering, cloud and artificial intelligence**
+my main language is **python**, but i believe the right tool depends on the problem — from bash and powerShell to java, c/c++, javascript and whatever else gets the job done
 ```
-
-I am **David**, better known as **MURRED**.
-
-I build, break, automate and study systems across **Cybersecurity, Software Engineering, Cloud and Artificial Intelligence**.
-
-My main language is **Python**, but I believe the right tool depends on the problem — from Bash and PowerShell to Java, C/C++, JavaScript and whatever else gets the job done.
 
 ---
 
