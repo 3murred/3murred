@@ -70,7 +70,7 @@ my main language is python and typescript, but i believe the right tool depends 
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                          S T A C KS                          ║
+║                         S T A C K S                          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
