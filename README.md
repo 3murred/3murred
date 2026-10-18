@@ -168,10 +168,10 @@ my main language is python and typescript, but i believe the right tool depends 
 ```text
 01001000 01000001 01000011 01001011
 
-     curiosity is the exploit
-     knowledge is the payload
-     discipline is the firewall
-     creativity is the backdoor
+    curiosity is the exploit
+    knowledge is the payload
+    discipline is the firewall
+    creativity is the backdoor
 ```
 
 </div>
