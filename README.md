@@ -170,8 +170,8 @@ my main language is python and typescript, but i believe the right tool depends 
 
     curiosity is the exploit
     knowledge is the payload
-    discipline is the firewall
-    creativity is the backdoor
+   discipline is the firewall
+   creativity is the backdoor
 ```
 
 </div>
