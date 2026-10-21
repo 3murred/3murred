@@ -47,6 +47,7 @@ cybersecurity enthusiast
 pentester
 cloud explorer
 automation addict
+data analyst
 builder of strange things
 
 $ ./mission.sh
