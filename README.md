@@ -136,7 +136,7 @@ my main language is python and typescript, but i believe the right tool depends 
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                       CURRENTLY BUILDING                     ║
+║                      C U RRENTLY BUILDING                    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
