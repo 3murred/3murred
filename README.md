@@ -10,7 +10,7 @@
 ░  ░      ░░░▒░ ░ ░   ░▒ ░ ▒░  ░▒ ░ ▒░ ░ ░  ░ ░ ▒  ▒ 
 ░      ░    ░░░ ░ ░   ░░   ░   ░░   ░    ░    ░ ░  ░ 
        ░      ░        ░        ░        ░  ░   ░    
-                                              ░      
+                                                    
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=BUILDING+SECURE+SYSTEMS;BREAKING+SYSTEMS+TO+UNDERSTAND+THEM;CYBERSECURITY+%7C+CLOUD+%7C+SOFTWARE+%7C+AI;THINK.+BUILD.+BREAK.+SECURE." alt="Typing SVG" />
