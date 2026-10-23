@@ -152,7 +152,7 @@ my main language is python and typescript, but i believe the right tool depends 
         █   [0 3] CLOUD                             █
         █       └─ infrastructure / AWS            █
         █                                          █
-        █   [04] ARTIFICIAL INTELLIGENCE           █
+        █   [0 4] ARTIFICIAL INTELLIGENCE          █
         █       └─ intelligent security tools      █
         █                                          █
         ████████████████████████████████████████████
