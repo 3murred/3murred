@@ -143,13 +143,13 @@ my main language is python and typescript, but i believe the right tool depends 
 ```text
         ████████████████████████████████████████████
         █                                          █
-        █   [0 1] SECURITY                          █
+        █   [0 1] SECURITY                         █
         █       └─ pentesting / network security   █
         █                                          █
-        █   [0 2] SOFTWARE                          █
+        █   [0 2] SOFTWARE                         █
         █       └─ secure systems / automation     █
         █                                          █
-        █   [0 3] CLOUD                             █
+        █   [0 3] CLOUD                            █
         █       └─ infrastructure / AWS            █
         █                                          █
         █   [0 4] ARTIFICIAL INTELLIGENCE          █
