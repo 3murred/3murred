@@ -146,10 +146,10 @@ my main language is python and typescript, but i believe the right tool depends 
         █   [0 1] SECURITY                          █
         █       └─ pentesting / network security   █
         █                                          █
-        █   [02] SOFTWARE                          █
+        █   [0 2] SOFTWARE                          █
         █       └─ secure systems / automation     █
         █                                          █
-        █   [03] CLOUD                             █
+        █   [0 3] CLOUD                             █
         █       └─ infrastructure / AWS            █
         █                                          █
         █   [04] ARTIFICIAL INTELLIGENCE           █
