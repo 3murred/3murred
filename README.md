@@ -143,7 +143,7 @@ my main language is python and typescript, but i believe the right tool depends 
 ```text
         ████████████████████████████████████████████
         █                                          █
-        █   [01] SECURITY                          █
+        █   [0 1] SECURITY                          █
         █       └─ pentesting / network security   █
         █                                          █
         █   [02] SOFTWARE                          █
