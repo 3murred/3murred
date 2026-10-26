@@ -47,7 +47,7 @@ cybersecurity enthusiast
 pentester
 cloud explorer
 automation addict
-data analyst
+data analyst 
 builder of strange things
 
 $ ./mission.sh
@@ -184,7 +184,7 @@ my main language is python and typescript, but i believe the right tool depends 
 ```text
 [ CONNECTION TERMINATED ]
 [ TRACE CLEANED ]
-[ SEE YOU ON THE OTHER SIDE ]
+[ SEE YOU ON THE OTHER SIDE! ]
 ```
 
 </div>
