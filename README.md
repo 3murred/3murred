@@ -166,7 +166,7 @@ my main language is python and typescript, but i believe the right tool depends 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=THE+PHILOSOPHY" alt="Typing SVG" />
 
 ```text
-01001000 01000001 01000011 01001011
+01001000 01000001 01000011 01001011 7
 
     curiosity is the exploit
     knowledge is the payload
