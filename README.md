@@ -37,7 +37,6 @@
 
 ```text
 $ whoami
-
 murred
 
 $ cat /etc/profile
